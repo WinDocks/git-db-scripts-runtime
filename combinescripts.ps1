@@ -1,1 +1,1 @@
-Get-Content addAnotherColumn.sql , addColumnAtCreate.sql | Set-Content all.sql
+Get-Content scripts\addAnotherColumn.sql , scripts\addColumnAtCreate.sql | Set-Content scripts\all.sql
