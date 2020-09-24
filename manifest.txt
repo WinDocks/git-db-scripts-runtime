@@ -1,2 +1,2 @@
 addAnotherColumn.sql
-.\addColumnAtCreate.sql
+subdir\addColumnAtCreate.sql
